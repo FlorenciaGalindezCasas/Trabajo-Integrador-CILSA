@@ -1,0 +1,102 @@
+.productos {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    padding: 2em;
+    margin-top: 5.5em;
+}
+
+
+.categoria {
+    margin-bottom: 2em;
+}
+
+.categoria-titulo {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5em;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 0.063em solid #ddd;
+    border-radius: 0.625em;
+    box-shadow: 0 0.25em 0.375em rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    min-height: 20em;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+    border-top-left-radius: 0.625em;
+    border-top-right-radius: 0.625em;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.25em;
+    font-weight: 600;
+    color: #0056b3;
+}
+
+.card-text {
+    font-size: 1em;
+    color: #666;
+}
+
+.short-description {
+    margin-bottom: 2.5em;
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    font-weight: bold;
+    margin-top: auto;
+}
+
+.btn-primary:hover {
+    background-color: #003d82;
+    border-color: #003d82;
+}
+
+.modal-body {
+    justify-content: center;
+    text-align: center;
+}
+
+.modal-body p {
+    margin-top: 1em;
+    font-size: 1.2em;
+    white-space: pre-line;
+}
+
+#cart-count {
+    background-color: #f8b118;
+    color: black;
+    border-radius: 50%;
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    /* position: absolute; */
+    top: -10px;
+    right: -10px;
+    text-decoration: none;
+}
+
+.contenedor-icono {
+    text-decoration: none;
+}

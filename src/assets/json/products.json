@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "Campera Negra",
+        "category": "Ropa",
+        "image_1": "../src/assets/img/products/campera-1.jpeg",
+        "image_modal": "../src/assets/img/products/campera-2.jpeg",
+        "short_description": "Campera resistente al viento.",
+        "large_description": "Campera resistente al viento. Color negro. Talle desde S hasta XXXL.",
+        "price": 50000
+    },
+    {
+        "id": "2",
+        "name": "Remera Hombre",
+        "category": "Ropa",
+        "image_1": "../src/assets/img/products/remera-1.jpeg",
+        "image_modal": "../src/assets/img/products/remera-2.jpeg",
+        "short_description": "Remera deportiva.",
+        "large_description": "Remera deportiva. Cuello redondo y manga corta. Talle desde S hasta XXXL.",
+        "price": 20000
+    },
+    {
+        "id": "3",
+        "name": "Zapatillas Colorfull",
+        "category": "Zapatillas",
+        "image_1": "../src/assets/img/products/zapatilla-1.jpeg",
+        "image_modal": "../src/assets/img/products/zapatilla-2.jpeg",
+        "short_description": "Zapatillas de running unisex.",
+        "large_description": "Zapatillas de running unisex. Ligeras y resistentes.",
+        "price": 75000
+    },
+    {
+        "id": "4",
+        "name": "Proteína",
+        "category": "Suplementos",
+        "image_1": "../src/assets/img/products/suplemento.jpeg",
+        "image_modal": "../src/assets/img/products/suplemento-1.jpeg",
+        "short_description": "Protína sabor chocolate.",
+        "large_description": "Protína sabor chocolate. Presentación: 1Kg. Porciones por envase: 30.",
+        "price": 30000
+    },
+    {
+        "id": "5",
+        "name": "Guantes",
+        "category": "Accesorios",
+        "image_1": "../src/assets/img/products/guantes-1.jpeg",
+        "image_modal": "../src/assets/img/products/guantes-2.jpeg",
+        "short_description": "Guantes deportivos unisex.",
+        "large_description": "Guantes deportivos unisex. Color negro.",
+        "price": 15000
+    },
+    {
+        "id": "6",
+        "name": "Short niño",
+        "category": "Ropa",
+        "image_1": "../src/assets/img/products/short-kid-1.jpeg",
+        "image_modal": "../src/assets/img/products/short-kid-2.jpeg",
+        "short_description": "Short estampado de niño.",
+        "large_description": "Short estampado de niño. Talle desde 1 hasta 16.",
+        "price": 10000
+    },
+    {
+        "id": "7",
+        "name": "Reloj",
+        "category": "Accesorios",
+        "image_1": "../src/assets/img/products/reloj-1.jpeg",
+        "image_modal": "../src/assets/img/products/reloj-2.jpeg",
+        "short_description": "Reloj pulsera de hombre.",
+        "large_description": "Reloj pulsera de hombre. Color negro con detalles anaranjados.",
+        "price": 75000
+    },
+    {
+        "id": "8",
+        "name": "Mancuernas",
+        "category": "Accesorios",
+        "image_1": "../src/assets/img/products/mancuerna-1.jpeg",
+        "image_modal": "../src/assets/img/products/mancuerna-2.jpeg",
+        "short_description": "Mancuernas ajustables.",
+        "large_description": "Mancuernas ajustables. Discos desde 2,5 kg hasta 15 kg.",
+        "price": 8000
+    },
+    {
+        "id": "9",
+        "name": "Pollera de tenis",
+        "category": "Ropa",
+        "image_1": "../src/assets/img/products/pollera-1.jpeg",
+        "image_modal": "../src/assets/img/products/pollera-2.jpeg",
+        "short_description": "Pollera de tenis blanca.",
+        "large_description": "Pollera de tenis blanca. Talles desde S hasta XXL.",
+        "price": 18000
+    },
+    {
+        "id": "10",
+        "name": "Gorra",
+        "category": "Accesorios",
+        "image_1": "../src/assets/img/products/gorra-1.jpeg",
+        "image_modal": "../src/assets/img/products/gorra-2.jpeg",
+        "short_description": "Gorra azul unisex.",
+        "large_description": "Gorra clásica azul unisex. Diseño suave especialmente pensado para el verano, protege de los rayos del sol",
+        "price": 7000
+    },
+    {
+        "id": "11",
+        "name": "Anteojos de sol",
+        "category": "Accesorios",
+        "image_1": "../src/assets/img/products/anteojos-1.jpeg",
+        "image_modal": "../src/assets/img/products/anteojos-2.jpeg",
+        "short_description": "Anteojos de sol para hombre.",
+        "large_description": "Anteojos de sol para hombre. Varios colores. Protección UV. Ultraligero",
+        "price": 60000
+    },
+    {
+        "id": "12",
+        "name": "Creatina",
+        "category": "Suplementos",
+        "image_1": "../src/assets/img/products/creatina-2.jpeg",
+        "image_modal": "../src/assets/img/products/creatina-1.jpeg",
+        "short_description": "Creatina 500g.",
+        "large_description": "Creatina. Presentación: 500g. Porciones por envase: 60.",
+        "price": 20000
+    }
+]
